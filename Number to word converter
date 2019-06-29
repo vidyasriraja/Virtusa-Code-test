@@ -5,7 +5,6 @@ using System;
         
         public static void Main(string[] args)
         {
-            //Your code goes here
             bool isNumber;
             int number;
             do
